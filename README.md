@@ -1,10 +1,10 @@
-# AFrame Basics Lab
+# A-Frame Basics Lab
 
 ![Aframe Basics](https://s3.amazonaws.com/upperline/curriculum-assets/aframe/aframe-basic.jpg)
 
 Welcome to the world of virtual reality on the web (also known as WebVR)! This is a cutting edge field where many of the tools you work with are still being beta tested and are under development! Virtual reality is one of the fastest growing tech fields and is poised to completely change the way that we interact with computers.
 
-AFrame is a Javascript library that allows you to write basic HTML-like tags that get rendered in a virtual reality environment. With a few basic lines of code you can have  VR world build that can be experience on your computer, Google Cardboard, Samsung Gear VR, and Oculus Rift.
+A-Frame is a Javascript library that allows you to write basic HTML-like tags that get rendered in a virtual reality environment. With a few basic lines of code you can have  VR world build that can be experience on your computer, Google Cardboard, Samsung Gear VR, and Oculus Rift.
 
 The best place to get started, and the spot you should always come back to is the [A-Frame Documentation Page](https://aframe.io/docs/0.5.0/introduction/). For an interactive slide tutorial, check out [A-Frame School](https://aframe.io/aframe-school/#/). We've also put together some [basic introduction videos here](https://www.youtube.com/watch?v=DDePTwGOWKY&list=PLetu2kRAyoeBhF9gBlUkUpjwO3mBVlTO1)!
 
